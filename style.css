@@ -64,7 +64,7 @@ body{
     align-items: center;
     flex-direction: column;
     margin-block: 20px;
-    display: flex;
+    display: none;
 }
 .weather-body img{
     width: 60%;
@@ -127,7 +127,7 @@ body{
     font-weight: 700;
 }
 
-/* .location-not-found{
+ .location-not-found{
     margin-top: 20px;
     display: none;
     align-items: center;
@@ -142,4 +142,4 @@ body{
 }
 .location-not-found img{
     width: 80%;
-} */
+} 
